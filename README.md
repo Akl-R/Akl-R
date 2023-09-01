@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akl-R
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning the basics
+- 👀 I’m a Software Developer
+
 ..
 
 <!---
