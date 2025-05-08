@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akl-R
-- 👀 I’m a Software Developer
+- 👀 I’m a Software Developer with a passion for building clean, user-focused applications.
 
 ..
 
